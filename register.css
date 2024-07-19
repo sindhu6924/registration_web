@@ -1,0 +1,51 @@
+.register{
+    color:black;
+
+    font-weight: bold;
+    margin-bottom: 0px;
+    line-height: -5px;
+    font-style: italic;
+    font-size: 44px;
+    font-family: "Arial";
+    
+}
+sub{
+    line-height: 2px;
+}
+fieldset{
+    border-color:rgb(233, 227, 227);
+}
+hr{
+    border-color: rgb(233, 227, 227);
+}
+a{
+    color:rgb(10, 40, 100);
+}
+label{
+    font-weight: bold;
+}
+.mail,.pass,.r_pass{
+    padding: 10px;
+    max-height: 60%;
+    width: 95%;
+    border: none;
+    border-color: grey;
+    background-color: rgb(214, 210, 210);
+}
+.register_button{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(90, 136, 90);
+}
+.whatsApp{
+    background-color: grey;
+    height: 5%;
+    
+    position:fixed;
+    bottom:5px;
+    right: 5px;
+    border-radius: 10px;
+}
+p{
+    text-align: center;
+}
